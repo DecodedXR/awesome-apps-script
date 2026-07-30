@@ -27,6 +27,7 @@ A collection of awesome [Apps Script](https://developers.google.com/apps-script/
 
 ## Samples
 
+- [100-Stop Google Maps Route Links](https://github.com/b4thefomo/google-maps-100-stops) – research + `GMAPS_ROUTE_URL` custom function building one Maps URL for up to 100 stops
 - [Google Samples](https://github.com/googlesamples/apps-script)
 - [Other Samples](https://github.com/entaq/GoogleAppsScript)
 - [Youtube](https://github.com/youtube/api-samples/tree/master/apps-script/snippets)
